@@ -150,11 +150,3 @@ java -jar target/RibbonClient-0.0.1-SNAPSHOT.jar
 
 -   **Sleuth**: 자동 트레이스 ID 생성 및 스팬 관리
 -   **Zipkin**: 분산 추적 데이터 시각화 (http://ubuntu-server:9411)
-
-## 라이센스
-
-이 프로젝트는 Spring Boot 프로젝트로 생성되었습니다.
-
-## 기여
-
-버그 리포트나 기능 요청은 이슈를 통해 제출해 주세요.
